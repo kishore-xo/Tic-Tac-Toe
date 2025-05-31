@@ -124,7 +124,7 @@ public class TicTacToe extends JFrame {
     }
 
     public static void main(String[] args) {
-        new TicTacToeGUI();
+        new TicTacToe();
     }
 }
 
